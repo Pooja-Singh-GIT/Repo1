@@ -1,1 +1,12 @@
-test.txt  test2.txt
+ Volume in drive C is OS
+ Volume Serial Number is D2D2-6D80
+
+ Directory of C:\Users\91986\Desktop\GIT
+
+06/07/2020  10:45 AM    <DIR>          .
+06/07/2020  10:45 AM    <DIR>          ..
+06/07/2020  10:45 AM                32 index.html
+06/07/2020  10:44 AM                13 test.txt
+06/07/2020  01:01 PM                 0 test2.txt
+               3 File(s)             45 bytes
+               2 Dir(s)  173,658,533,888 bytes free
