@@ -1,10 +1,2 @@
- Volume in drive C is OS
- Volume Serial Number is D2D2-6D80
 
- Directory of C:\Users\91986\Desktop\GIT
-
-06/07/2020  10:34 AM    <DIR>          .
-06/07/2020  10:34 AM    <DIR>          ..
-06/07/2020  10:34 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  173,666,889,728 bytes free
+Hello World
